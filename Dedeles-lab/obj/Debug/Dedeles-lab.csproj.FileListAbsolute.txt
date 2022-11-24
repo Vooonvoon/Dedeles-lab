@@ -1,0 +1,12 @@
+C:\Users\ComputerLab4PC1\source\repos\Dedeles-lab\Dedeles-lab\bin\Debug\Dedeles-lab.exe.config
+C:\Users\ComputerLab4PC1\source\repos\Dedeles-lab\Dedeles-lab\bin\Debug\Dedeles-lab.exe
+C:\Users\ComputerLab4PC1\source\repos\Dedeles-lab\Dedeles-lab\bin\Debug\Dedeles-lab.pdb
+C:\Users\ComputerLab4PC1\source\repos\Dedeles-lab\Dedeles-lab\obj\Debug\Dedeles-lab.csprojAssemblyReference.cache
+C:\Users\ComputerLab4PC1\source\repos\Dedeles-lab\Dedeles-lab\obj\Debug\Dedeles_lab.FrmLab1.resources
+C:\Users\ComputerLab4PC1\source\repos\Dedeles-lab\Dedeles-lab\obj\Debug\Dedeles_lab.FrmFileName.resources
+C:\Users\ComputerLab4PC1\source\repos\Dedeles-lab\Dedeles-lab\obj\Debug\Dedeles_lab.Properties.Resources.resources
+C:\Users\ComputerLab4PC1\source\repos\Dedeles-lab\Dedeles-lab\obj\Debug\Dedeles-lab.csproj.GenerateResource.cache
+C:\Users\ComputerLab4PC1\source\repos\Dedeles-lab\Dedeles-lab\obj\Debug\Dedeles-lab.exe
+C:\Users\ComputerLab4PC1\source\repos\Dedeles-lab\Dedeles-lab\obj\Debug\Dedeles-lab.pdb
+C:\Users\ComputerLab4PC1\source\repos\Dedeles-lab\Dedeles-lab\obj\Debug\Dedeles_lab.FrmRegistration.resources
+C:\Users\ComputerLab4PC1\source\repos\Dedeles-lab\Dedeles-lab\obj\Debug\Dedeles_lab.FrmOpenTextFile.resources
